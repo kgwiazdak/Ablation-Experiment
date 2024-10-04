@@ -1,3 +1,4 @@
 transformer_lens
 circuitsvis
 ploty
+tqdm
